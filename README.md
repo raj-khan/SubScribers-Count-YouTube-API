@@ -1,6 +1,6 @@
 # YouTube-API-Subscriber-Count
 
-Sometimes we need YouTube channels Total Subscriber, Total videos, total views, in this repo you will find all these using channel ID.
+Sometimes we need YouTube channels Total Subscriber, Total videos, total views, this will help you to find those details.
 
 ![Logo](https://josephmuciraexclusives.com/wp-content/uploads/2019/08/YouTube-Data-API-Overview.jpg)
 
