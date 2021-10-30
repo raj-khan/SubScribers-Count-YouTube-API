@@ -1,11 +1,8 @@
-
-![Logo](https://josephmuciraexclusives.com/wp-content/uploads/2019/08/YouTube-Data-API-Overview.jpg)
-
-
 # YouTube-API-Subscriber-Count
 
 Sometimes we need YouTube channels Total Subscriber, Total videos, total views, in this repo you will find all these using channel ID.
 
+![Logo](https://josephmuciraexclusives.com/wp-content/uploads/2019/08/YouTube-Data-API-Overview.jpg)
 
 
 
