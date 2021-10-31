@@ -44,7 +44,8 @@ You need to create a google developers account, then craete a project using YouT
 #### How to find YouTube channel ID?
 
 While playing any youtube video if you click on this YouTube channel you can find the user ID in the browser url section.
-![Logo](https://raj-khan.github.io/youtube-subscribers//images/getChannelId.gif)
+
+![Logo](https://raj-khan.github.io/youtube-subscribers/images/getChannelId.gif)
 
 
 
