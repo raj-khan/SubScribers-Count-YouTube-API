@@ -47,7 +47,8 @@ While playing any youtube video if you click on this YouTube channel you can fin
 
 ![Logo](https://raj-khan.github.io/youtube-subscribers/images/getChannelId.gif)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=SkYJFNVIE2Y&ab_channel=RaajKhan)
+
+<video src='https://www.youtube.com/watch?v=SkYJFNVIE2Y&ab_channel=RaajKhan' width=700/>
 
 
 
