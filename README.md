@@ -46,7 +46,9 @@ You need to create a google developers account, then craete a project using YouT
 While playing any youtube video if you click on this YouTube channel you can find the user ID in the browser url section.
 
 ![Logo](https://raj-khan.github.io/youtube-subscribers/images/getChannelId.gif)
-https://www.youtube.com/watch?v=SkYJFNVIE2Y&ab_channel=RaajKhan
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=SkYJFNVIE2Y&ab_channel=RaajKhan)
+
 
 
 
