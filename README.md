@@ -32,7 +32,7 @@ Sometimes we need YouTube channels Total Subscriber, Total videos, total views, 
 
 ## Demo
 
-http://raajkhan.com/projects/api/youtube-sub
+https://raj-khan.github.io/youtube-subscribers/
 
 
 ## FAQ
